@@ -13,9 +13,9 @@ Compose-Tab-Rows is a sample Android application built using Jetpack Compose. It
 ## Screenshots
 <table>
   <tr>
-    <td><img src="https://github.com/VimalPatel14/Compose-Tab-Rows/blob/master/Screenshots/Screenshot_20240405_125412.jpg" alt="Home"></td>
-    <td><img src="https://github.com/VimalPatel14/Compose-Tab-Rows/blob/master/Screenshots/Screenshot_20240405_125419.jpg" alt="Favourite"></td>
-    <td><img src="https://github.com/VimalPatel14/Compose-Tab-Rows/blob/master/Screenshots/Screenshot_20240405_125424.jpg" alt="Profile"></td>
+    <td><img src="https://github.com/VimalPatel14/Compose-Tab-Rows/blob/master/screenshots/home.png" alt="Home"></td>
+    <td><img src="https://github.com/VimalPatel14/Compose-Tab-Rows/blob/master/screenshots/favourite" alt="Favourite"></td>
+    <td><img src="https://github.com/VimalPatel14/Compose-Tab-Rows/blob/master/screenshots/profile.png" alt="Profile"></td>
   </tr>
 </table>
 
